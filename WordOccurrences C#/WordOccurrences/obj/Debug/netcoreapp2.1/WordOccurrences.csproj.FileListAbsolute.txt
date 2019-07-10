@@ -1,0 +1,22 @@
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.deps.json
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.runtimeconfig.json
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.runtimeconfig.dev.json
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.dll
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.pdb
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.csprojAssemblyReference.cache
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.AssemblyInfoInputs.cache
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.AssemblyInfo.cs
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.dll
+C:\Users\Arturas\source\repos\WordOccurrences\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.pdb
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.deps.json
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.runtimeconfig.json
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.runtimeconfig.dev.json
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.dll
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\bin\Debug\netcoreapp2.1\WordOccurrences.pdb
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.csprojAssemblyReference.cache
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.csproj.CoreCompileInputs.cache
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.AssemblyInfoInputs.cache
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.AssemblyInfo.cs
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.dll
+c:\Users\Arturas\Documents\tests\WordOccurrences C#\WordOccurrences\obj\Debug\netcoreapp2.1\WordOccurrences.pdb
